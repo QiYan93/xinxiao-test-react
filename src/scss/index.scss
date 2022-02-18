@@ -1,0 +1,35 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    color: #141414;
+    font-size: 14px;
+    font-family: -apple-system,SF UI Display,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+    background: #f2f2f2;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+div,
+header,
+footer,
+section,
+input,
+textarea {
+    box-sizing: border-box;
+}
+.img {
+    width: 100%;
+    height: 100%;
+}
+ul,
+ol {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+    padding-inline-end: 0;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
